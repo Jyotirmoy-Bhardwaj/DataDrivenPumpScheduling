@@ -13,8 +13,37 @@ opencv-python <br/>
 Jupyter notebook <br/>
 
 
+## License
+
+The project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 
-## References
-<a id="1">[1]</a> 
+## BibTeX Citation
+
+If you refer this data-driven controller/approach in a scientific publication, we would appreciate using the following citations:
+
+```
+@inproceedings{bhardwaj2021data,
+  title={Data-Driven Pump Scheduling for Cost Minimization in Water Networks},
+  author={Bhardwaj, Jyotirmoy and Krishnan, Joshin and Beferull-Lozano, Baltasar},
+  booktitle={2021 IEEE International Conference on Autonomous Systems (ICAS)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+```
+
+
+## Citing Work
+
+* **Dimitris Bertsimas and Bartolomeo Stellato**. *Online Mixed-Integer Optimization in Milliseconds*. arXiv (2021). https://arxiv.org/pdf/1907.02206.pdf.
+
+
+## Funding
+This project is/was partially funded through:
+
+[<img align="middle" src="docs/_static/images/ardc_logo.png" width="150">](https://atlantardc.wordpress.com) Atlanta Research Data Center: [A Polygon-Based Approach to Spatial Network Allocation](https://atlantardc.files.wordpress.com/2018/05/ardc-newsletter_2018_2.pdf)
+
+[<img align="middle" src="docs/_static/images/nsf_logo.png" width="100">](https://www.nsf.gov/index.jsp) National Science Foundation Award #1825768: [National Historical Geographic Information System](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1825768&HistoricalAwards=false)
+
 
