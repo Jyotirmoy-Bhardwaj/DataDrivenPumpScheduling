@@ -5,7 +5,7 @@ This is a binary classification problem addressed by deep learning. In this work
 *An example of a Water Distribution Network [Nodal Diagram]:
 <p float="left">
   <img src="docs/images/wdn_1.png" width="300" />
-  <img src="docs/images/wdn_1.png" width="300" /> 
+  <img src="docs/images/accuracy_3_layer.png" width="300" /> 
   <img src="docs/images/wdn_1.png" width="300" />
 </p>
 
