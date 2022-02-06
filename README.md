@@ -9,6 +9,13 @@ This is a binary classification problem addressed by deep learning. In this work
   <img src="docs/images/computationTime.png" width="250" />
 </p>
 
+Using `conda`, `tensorflow` can be installed as follows (for beginners):
+```
+$ conda create -n tf tensorflow
+$ conda activate tf
+```
+
+
 # Requirements:
 - [`TensorFlow`](https://www.tensorflow.org/)
 - [`Keras`](https://keras.io/)
